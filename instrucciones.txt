@@ -1,0 +1,3 @@
+Para correr los archivos, entra desde tu terminal a la carpeta de "examples"
+y corre:
+> ruby nombre_del_archivo.rb
